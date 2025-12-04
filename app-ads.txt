@@ -1,0 +1,5 @@
+# app-ads.txt for HD Magnify Plus
+# Generated for App Store verification
+
+google.com, pub-6277270131739743, DIRECT, f08c47fec0942fa0
+
